@@ -7,3 +7,5 @@ Agregando más contenido al _READEME.md_
 New Update
 
 Task: Update Data Base
+
+Este commit es para oficializar nuestra version 1.0.0
