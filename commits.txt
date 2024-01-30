@@ -1,0 +1,78 @@
+commit e6eea35253ca4a65a4d677f5655faca84d623621
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sun Jan 28 22:16:07 2024 -0500
+
+    Agregando Cambio
+
+commit 926b284fddc8fb15853c66299b466b9491898e1e
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 17:45:48 2024 -0500
+
+    Agregando style.css al index.html
+
+commit c969ba3f63cb4246b4c1a442ffb33650e74efbb5
+Merge: 64f0646 47c810f
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 17:32:07 2024 -0500
+
+    Merge branch 'js'
+
+commit 47c810f0f7fb72d88c04b2fc7864da619da6346e
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 17:24:53 2024 -0500
+
+    Creando index.js
+
+commit 64f06461cf2ed3efae7cca1a80d523a0550c2155
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 17:20:26 2024 -0500
+
+    Archivo CSS
+
+commit c8f6260f4132585da85db3f7dc28514a060419d4
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 17:13:51 2024 -0500
+
+    Creando Archivo index.html
+
+commit ab16984e3b68ab1f2b15bf94c67552f4e2be1f0e
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 12:21:18 2024 -0500
+
+    Ignorando Archivos .exe
+
+commit 97a6edb230a5c90593fc06f1e3437cf1220c8727
+Author: Breiner Parra <118692368+Brin29@users.noreply.github.com>
+Date:   Sat Jan 27 11:31:28 2024 -0500
+
+    Update README.md
+
+commit a7352623034c0b143146d298a9078d12367a9d2f
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Sat Jan 27 11:25:36 2024 -0500
+
+    Nuevo Cambio
+
+commit a59c63f9bcdc13a5e9db69576c372fcda75a0028
+Author: Breiner Parra <118692368+Brin29@users.noreply.github.com>
+Date:   Fri Jan 26 08:40:23 2024 -0500
+
+    Creando licencia del repositorio
+
+commit 7d81352b1e8436c6bb5d37bb6e83c99408268ee6
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Fri Jan 26 08:33:38 2024 -0500
+
+    Agregando segundo cambio
+
+commit ecb9c50a2606d11c314f4ef54e90a490ec8ec178
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Fri Jan 26 08:22:18 2024 -0500
+
+    Agregando Contenido Inicial al README
+
+commit 5182a51fa01b2fa7502881889e3542be0f9af34f
+Author: Brin29 <breinerstivenparracortes50@gmail.com>
+Date:   Fri Jan 26 08:17:21 2024 -0500
+
+    Primer commit :)
